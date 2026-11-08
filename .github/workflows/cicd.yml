@@ -1,4 +1,4 @@
-name: CI/CD for Java WebApp with Tomcat
+name: CI/CD for Java App
 on:
   push:
     branches:
